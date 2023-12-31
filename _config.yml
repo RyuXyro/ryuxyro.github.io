@@ -22,7 +22,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: RyuXyro
 minimal_mistakes_skin: dark
-theme: minimal-mistakes-jekyll
 search: false
 
 # Build settings
