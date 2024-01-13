@@ -1,4 +1,4 @@
-const CHARSET = ["1", "0", "1", "0", "0", "1", "0", "1"];
+const CHARSET = ["1", "0", "-", "_", "=", "+", "|", "'"];
 
 function encode(bytes) {
     let result = "";
